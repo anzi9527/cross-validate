@@ -19,6 +19,7 @@
 """
 
 import io
+import re
 import sys
 import json
 import os
@@ -215,23 +216,55 @@ def validate_content(content: str, content_type: str = "article", sources: Optio
             "score": "unknown",
         }
 
-    # 尝试解析 JSON
+    # 尝试解析 JSON（模型可能把 JSON 包在 markdown 代码块里）
     model_used = "zhipu" if ZHIPU_API_KEY else "dashscope"
-    try:
-        result = json.loads(response)
-        result["validated"] = True
-        result["model"] = model_used
-        return result
-    except (json.JSONDecodeError, KeyError):
-        # 如果模型没输出 JSON，返回原始文本
-        return {
-            "validated": True,
-            "model": model_used,
-            "raw_response": response,
-            "issues": [],
-            "summary": response[:500],
-            "score": "unknown",
-        }
+
+    def _try_extract_json(text):
+        # 尝试直接解析
+        try:
+            return json.loads(text)
+        except (json.JSONDecodeError, ValueError):
+            pass
+        # 尝试从 markdown 代码块提取
+        m = re.search(r"```(?:json)?\s*\n?([\s\S]*?)\n?```", text)
+        if m:
+            try:
+                return json.loads(m.group(1))
+            except (json.JSONDecodeError, ValueError):
+                pass
+        # 尝试找第一个 { ... } JSON 对象
+        brace_match = None
+        depth = 0
+        start = -1
+        for i, ch in enumerate(text):
+            if ch == '{':
+                if depth == 0:
+                    start = i
+                depth += 1
+            elif ch == '}':
+                depth -= 1
+                if depth == 0 and start >= 0:
+                    try:
+                        return json.loads(text[start:i+1])
+                    except (json.JSONDecodeError, ValueError):
+                        start = -1
+        return None
+
+    parsed = _try_extract_json(response)
+    if parsed and isinstance(parsed, dict) and "score" in parsed:
+        parsed["validated"] = True
+        parsed["model"] = model_used
+        return parsed
+
+    # 如果模型没输出可解析的 JSON，返回原始文本
+    return {
+        "validated": True,
+        "model": model_used,
+        "raw_response": response,
+        "issues": [],
+        "summary": response[:500],
+        "score": "unknown",
+    }
 
 
 def validate_file(filepath: str, content_type: str = "article", sources: Optional[str] = None) -> dict:
