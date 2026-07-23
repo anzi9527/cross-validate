@@ -1,0 +1,71 @@
+{
+  "updated": "2026-07-23T14:30+08:00",
+  "reports": [
+    {
+      "date": "2026-07-23",
+      "title": "「AI 应用」行业日报 · 2026-07-23",
+      "summary": "- 谷歌发布Q2财报，云业务营收大涨82%，净利润暴增3倍。[数据来源: 钛媒体《Q2财报：谷歌云大涨82%，特斯拉利润率只剩1.4%》/《净利润暴增3倍，谷歌让马斯克带着上天了》]- 特斯拉利润率降至1.4%，48万辆交付量撑不起利润，汽车业务正在为AI\"输血\"。[数据来源: 钛媒体《48万辆交付撑不起利润：特斯拉的汽车业务，正在为AI\"输血\"》]- 面壁智能融资/估值相关话题引发讨论（\"面壁2",
+      "heat": "⭐️⭐️⭐️",
+      "recommend": "⭐️⭐️⭐️",
+      "opportunities": 4,
+      "risks": 4,
+      "url": "https://anzi9527.github.io/cross-validate/daily/2026-07-23.html",
+      "raw_url": "https://raw.githubusercontent.com/anzi9527/cross-validate/main/docs/daily/2026-07-23.md"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "「AI 应用」行业日报 · 2026-07-22",
+      "summary": "- **Kimi K3 发布并引发性能与定价讨论**：月之暗面发布 Kimi K3，被多个来源讨论其与 Fable 的竞争关系及定价策略。[数据来源: https://fireworks.ai/blog/kimik3-fable, https://www.tmtpost.com]- **OpenAI 与 Hugging Face 共同披露模型评估安全事件**：双方就模型评估期间发生的安全事件发布联",
+      "heat": "⭐️⭐️⭐️",
+      "recommend": "⭐️⭐️⭐️",
+      "opportunities": 3,
+      "risks": 5,
+      "url": "https://anzi9527.github.io/cross-validate/daily/2026-07-22.html",
+      "raw_url": "https://raw.githubusercontent.com/anzi9527/cross-validate/main/docs/daily/2026-07-22.md"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "「AI 应用」行业日报 · 2026-07-21",
+      "summary": "- **Kimi Work 发布** [数据来源: https://www.kimi.com/products/kimi-work] — 月之暗面（Moonshot AI）在 HN 上获得 ⭐343 热度，发布 Kimi Work 产品线，定位为 AI 工作场景解决方案。- **K3 发布引发连锁反应** [数据来源: 钛媒体报道] — K3 发布 48 小时内，服务器满载、英伟达股价暴跌、Ant",
+      "heat": "⭐️⭐️⭐️",
+      "recommend": "⭐️⭐️⭐️",
+      "opportunities": 5,
+      "risks": 0,
+      "url": "https://anzi9527.github.io/cross-validate/daily/2026-07-21.html",
+      "raw_url": "https://raw.githubusercontent.com/anzi9527/cross-validate/main/docs/daily/2026-07-21.md"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "「AI 应用」行业日报 · 2026-07-20",
+      "summary": "- **Claude Code 底层运行时迁移至 Bun（Rust 编写）** [数据来源: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/] — Anthropic 的 Claude Code 工具已从 Node.js 迁移至 Bun，且 Bun 由 Rust 重写，可能带来性能提升和启动速度加快 [推理]。- ",
+      "heat": "⭐️⭐️⭐️",
+      "recommend": "⭐️⭐️⭐️",
+      "opportunities": 4,
+      "risks": 0,
+      "url": "https://anzi9527.github.io/cross-validate/daily/2026-07-20.html",
+      "raw_url": "https://raw.githubusercontent.com/anzi9527/cross-validate/main/docs/daily/2026-07-20.md"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "「AI 应用」行业日报 · 2026-07-19",
+      "summary": "- **阿里巴巴** 发布企业级 AI 应用创作平台「秒悟团队版」，主打 AI Agent 低门槛开发 [数据来源: 36氪]- **蚂蚁数科** 发布「智能体超级工厂」，首批预置 200 个岗位级数字专家 [数据来源: 36氪]- **百度** 首发数字人视频播客，突破数字人微表情技术 [数据来源: 36氪]- **商汤** 发布旗舰芯片 SenseNova U1 Pro，多模态智能体实现长程任",
+      "heat": "⭐️⭐️⭐️",
+      "recommend": "⭐️⭐️⭐️",
+      "opportunities": 5,
+      "risks": 0,
+      "url": "https://anzi9527.github.io/cross-validate/daily/2026-07-19.html",
+      "raw_url": "https://raw.githubusercontent.com/anzi9527/cross-validate/main/docs/daily/2026-07-19.md"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "「AI 应用」行业日报 · 2026-07-18",
+      "summary": "|------|------|------|| 阿里巴巴发布「秒悟团队版」— 企业级AI应用创作平台 | 36氪 | 面向企业AI应用低门槛开发的工具平台，降低AI落地门槛 || 月之暗面（Moonshot AI/Kimi）有望6个月内赴港上市 | 36氪 | 国内AI明星创企启动IPO进程，估值预期提升 || 印奇WAIC演讲：「当智能体走进物理世界」 | 36氪 | 强调AI从数字世界向物理世",
+      "heat": "⭐️⭐️⭐️",
+      "recommend": "⭐️⭐️⭐️",
+      "opportunities": 4,
+      "risks": 0,
+      "url": "https://anzi9527.github.io/cross-validate/daily/2026-07-18.html",
+      "raw_url": "https://raw.githubusercontent.com/anzi9527/cross-validate/main/docs/daily/2026-07-18.md"
+    }
+  ]
+}
