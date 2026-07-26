@@ -1,29 +1,41 @@
 {
-  "updated": "2026-07-25T19:30+08:00",
+  "updated": "2026-07-26T12:55+08:00",
   "reports": [
     {
-      "date": "2026-07-24",
-      "sector": "电商日报",
-      "prefix": "industry_daily_dianshang_",
-      "title": "电商日报行业日报",
-      "summary": "- **东方甄选发布2026财年业绩预告**：预计营收56-58亿元，同比增长27.3%-31.8%；净溢利5.2-5.5亿元，同比暴增8566.7%-9066.7%。利润爆发主要源于2025财年低基数及自营品、多渠道拓展见效。（来源：36氪） - **消费品以旧换新政策拉动超1.25万亿元销售额**：该政策持续刺激家电、3C、汽车等品类消费，为电商平台带来结构性增量。（来源：央视新闻） - **...",
-      "heat": "medium",
+      "date": "2026-07-26",
+      "sector": "深度报告",
+      "prefix": "report_",
+      "title": "深度报告行业日报",
+      "summary": "- **头部玩家动态**：英伟达黄仁勋力挺中国AI开源模型，称“中国注定会产出卓越的AI技术”[36氪]；马斯克表示“未来某个时刻中国极有可能成为AI领导者”[36氪]；SK集团崔泰源呼吁韩国转型为“AI原生”国家[36氪]；李在明称人工智能时代为韩国带来机遇[36氪]。大厂Agent布局“赛马结束，各寻Agent主心骨”[钛媒体]。 - **产品发布**：Anthropic正式发布Claude ...",
+      "heat": "low",
       "recommend": "strong",
-      "opportunities": 13,
-      "risks": 9,
-      "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-24.md"
+      "opportunities": 17,
+      "risks": 8,
+      "url": "/cross-validate/daily/report_2026-07-26.md"
+    },
+    {
+      "date": "2026-07-25",
+      "sector": "深度报告",
+      "prefix": "report_",
+      "title": "深度报告行业日报",
+      "summary": "好的，收到。作为专注于 AI 应用 / AI Agent 行业的深度市场分析师，我将基于您提供的2026年7月25日采集的行业资讯，生成一份包含深度分析的行业日报。 今日市场信号显著，头部玩家动作频繁，产品迭代加速，同时伴随产业整合信号。 - **巨头发布：** Anthropic正式发布**Claude Opus 5**模型，性能登顶Artificial Analysis Intelligenc...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 21,
+      "risks": 17,
+      "url": "/cross-validate/daily/report_2026-07-25.md"
     },
     {
       "date": "2026-07-24",
-      "sector": "自媒体日报",
-      "prefix": "industry_daily_meiti_",
-      "title": "自媒体日报行业日报",
-      "summary": "好的，我是你的资深自媒体行业分析师。基于今日（2026年7月24日）的信息及行业洞察，为你呈现这份日报。 1.  **东方甄选业绩爆发，验证“知识+带货”模式天花板**：东方甄选发布2026财年业绩预告，预计营收56-58亿元，同比增长约27.3%-31.8%；净溢利预计5.2-5.5亿元，同比增长8566.7%-9066.7%。这一数据远超市场预期，表明其“去头部主播化”和“自营品”战略已取得阶...",
+      "sector": "深度报告",
+      "prefix": "report_",
+      "title": "深度报告行业日报",
+      "summary": "好的，作为专注于 AI 应用 / AI Agent 行业的深度市场分析师，我将基于您提供的 2026-07-24 行业资讯，为您生成一份结构化的深度分析日报。 今日市场信号密集，主要集中在融资、生态构建和巨头动态上。 - **智象未来** 完成 15 亿人民币 C 轮融资，专注于“原生多模态世界模型”，区别于传统“卷代码”路径。[数据来源：钛媒体] - **大疆系AI自然探索公司** 获五源、顺为...",
       "heat": "medium",
       "recommend": "strong",
-      "opportunities": 9,
-      "risks": 7,
-      "url": "/cross-validate/daily/industry_daily_meiti_2026-07-24.md"
+      "opportunities": 19,
+      "risks": 10,
+      "url": "/cross-validate/daily/report_2026-07-24.md"
     },
     {
       "date": "2026-07-23",
@@ -62,28 +74,52 @@
       "url": "/cross-validate/daily/industry_ecommerce_2026-07-23.md"
     },
     {
+      "date": "2026-07-23",
+      "sector": "深度报告",
+      "prefix": "industry_deep_",
+      "title": "深度报告行业日报",
+      "summary": "好的，这是一份基于2026年7月23日时间节点，为您撰写的AI应用行业深度分析报告。 本月，AI应用行业呈现出三大核心趋势：**从“通用智能”向“超级个体”演进**、**“具身智能”加速进入消费级市场**、以及**“AI原生”商业模式的全面爆发**。 1.  **从“通用智能”向“超级个体”演进**：大模型的通用能力已不再是壁垒，竞争焦点转向如何将通用能力转化为对特定用户的“超级赋能”。具体表现为...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 4,
+      "risks": 13,
+      "url": "/cross-validate/daily/industry_deep_2026-07-23.md"
+    },
+    {
       "date": "2026-07-24",
-      "sector": "AI应用",
-      "prefix": "industry_daily_",
-      "title": "AI应用行业日报",
+      "sector": "自媒体日报",
+      "prefix": "industry_daily_meiti_",
+      "title": "自媒体日报行业日报",
       "summary": "好的，我是你的资深自媒体行业分析师。基于今日（2026年7月24日）的信息及行业洞察，为你呈现这份日报。 1.  **东方甄选业绩爆发，验证“知识+带货”模式天花板**：东方甄选发布2026财年业绩预告，预计营收56-58亿元，同比增长约27.3%-31.8%；净溢利预计5.2-5.5亿元，同比增长8566.7%-9066.7%。这一数据远超市场预期，表明其“去头部主播化”和“自营品”战略已取得阶...",
       "heat": "medium",
       "recommend": "strong",
       "opportunities": 9,
       "risks": 7,
-      "url": "/cross-validate/daily/industry_daily_2026-07-24.md"
+      "url": "/cross-validate/daily/industry_daily_meiti_2026-07-24.md"
     },
     {
       "date": "2026-07-24",
-      "sector": "AI应用",
-      "prefix": "industry_daily_",
-      "title": "AI应用行业日报",
+      "sector": "电商日报",
+      "prefix": "industry_daily_dianshang_",
+      "title": "电商日报行业日报",
       "summary": "- **东方甄选发布2026财年业绩预告**：预计营收56-58亿元，同比增长27.3%-31.8%；净溢利5.2-5.5亿元，同比暴增8566.7%-9066.7%。利润爆发主要源于2025财年低基数及自营品、多渠道拓展见效。（来源：36氪） - **消费品以旧换新政策拉动超1.25万亿元销售额**：该政策持续刺激家电、3C、汽车等品类消费，为电商平台带来结构性增量。（来源：央视新闻） - **...",
       "heat": "medium",
       "recommend": "strong",
       "opportunities": 13,
       "risks": 9,
-      "url": "/cross-validate/daily/industry_daily_2026-07-24.md"
+      "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-24.md"
+    },
+    {
+      "date": "2026-07-26",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "- **顶级大模型发布与竞争**：Claude Opus 5 正式发布，并冲上评测排行榜第一，引发对是否还需要 Claude Fable 5 的讨论 [36氪, 钛媒体] - **行业大佬论道**：黄仁勋力挺中国AI开源模型，认为中国注定产出卓越AI技术 [36氪]；马斯克预测未来某个时刻中国很有可能成为AI领导者，即使禁用中国模型也挡不住 [36氪] - **端侧AI大脑获资本认可**：复旦教授...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 11,
+      "risks": 3,
+      "url": "/cross-validate/daily/industry_daily_2026-07-26.md"
     },
     {
       "date": "2026-07-25",
@@ -180,30 +216,6 @@
       "opportunities": 12,
       "risks": 0,
       "url": "/cross-validate/daily/industry_daily_2026-07-18.md"
-    },
-    {
-      "date": "2026-07-23",
-      "sector": "深度报告",
-      "prefix": "industry_deep_",
-      "title": "深度报告行业日报",
-      "summary": "好的，这是一份基于2026年7月23日时间节点，为您撰写的AI应用行业深度分析报告。 本月，AI应用行业呈现出三大核心趋势：**从“通用智能”向“超级个体”演进**、**“具身智能”加速进入消费级市场**、以及**“AI原生”商业模式的全面爆发**。 1.  **从“通用智能”向“超级个体”演进**：大模型的通用能力已不再是壁垒，竞争焦点转向如何将通用能力转化为对特定用户的“超级赋能”。具体表现为...",
-      "heat": "medium",
-      "recommend": "strong",
-      "opportunities": 4,
-      "risks": 13,
-      "url": "/cross-validate/daily/industry_deep_2026-07-23.md"
-    },
-    {
-      "date": "2026-07-24",
-      "sector": "深度报告",
-      "prefix": "report_",
-      "title": "深度报告行业日报",
-      "summary": "好的，作为专注于 AI 应用 / AI Agent 行业的深度市场分析师，我将基于您提供的 2026-07-24 行业资讯，为您生成一份结构化的深度分析日报。 今日市场信号密集，主要集中在融资、生态构建和巨头动态上。 - **智象未来** 完成 15 亿人民币 C 轮融资，专注于“原生多模态世界模型”，区别于传统“卷代码”路径。[数据来源：钛媒体] - **大疆系AI自然探索公司** 获五源、顺为...",
-      "heat": "medium",
-      "recommend": "strong",
-      "opportunities": 19,
-      "risks": 10,
-      "url": "/cross-validate/daily/report_2026-07-24.md"
     }
   ]
 }
