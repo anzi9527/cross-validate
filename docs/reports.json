@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-26T12:55+08:00",
+  "updated": "2026-07-27T18:33+08:00",
   "reports": [
+    {
+      "date": "2026-07-27",
+      "sector": "深度报告",
+      "prefix": "report_",
+      "title": "深度报告行业日报",
+      "summary": "好的，作为专注于AI应用/AI Agent行业的市场分析师，我将基于您提供的2026年7月27日行业资讯，生成一份结构化的深度行业日报。 - **黄仁勋力挺中国AI开源模型**：英伟达CEO持续示好中国AI生态，可能预示中美AI产业链合作新趋势。[36氪] - **Claude Opus 5 正式发布**：Anthropic发布其最强模型Opus 5，并在多项基准测试中冲上第一，加剧顶级模型军备竞...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 18,
+      "risks": 29,
+      "url": "/cross-validate/daily/report_2026-07-27.md"
+    },
     {
       "date": "2026-07-26",
       "sector": "深度报告",
@@ -108,6 +120,18 @@
       "opportunities": 13,
       "risks": 9,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-24.md"
+    },
+    {
+      "date": "2026-07-27",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "- **眸深智能完成近亿元Pre-A轮融资**：复旦教授、前英特尔首席科学家带队，主攻“端侧具身大脑”，即机器人边缘AI推理芯片/模组。[数据来源：36氪-硬氪首发] - **三星李在镕与OpenAI奥特曼会面**：重点讨论AI基础设施合作（数据中心/芯片代工）。[数据来源：36氪-三星李在镕与OpenAI奥特曼会面] - **英伟达拟为OpenAI数据中心枢纽提供2500亿美元担保**：标志着巨...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 7,
+      "risks": 8,
+      "url": "/cross-validate/daily/industry_daily_2026-07-27.md"
     },
     {
       "date": "2026-07-26",
