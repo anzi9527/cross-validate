@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T18:33+08:00",
+  "updated": "2026-07-28T09:30+08:00",
   "reports": [
     {
       "date": "2026-07-27",
@@ -120,6 +120,18 @@
       "opportunities": 13,
       "risks": 9,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-24.md"
+    },
+    {
+      "date": "2026-07-28",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "1. **资本明显偏好“会赚钱”的AI应用**：36氪发文指出，2026年资本更青睐能实现商业闭环、有明确营收模型的AI应用，而非单纯追求技术指标或DAU增长的项目。[数据来源：36氪《2026年，为什么资本更青睐“会赚钱”的AI应用？》] 2. **英灵殿科技完成近5000万美元融资**：AI4S（AI for Science）赛道新增重磅玩家，公司获得大额融资，表明AI在科学研究领域的商业前景...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 15,
+      "risks": 12,
+      "url": "/cross-validate/daily/industry_daily_2026-07-28.md"
     },
     {
       "date": "2026-07-27",
