@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T09:30+08:00",
+  "updated": "2026-07-29T09:30+08:00",
   "reports": [
     {
       "date": "2026-07-27",
@@ -98,6 +98,18 @@
       "url": "/cross-validate/daily/industry_deep_2026-07-23.md"
     },
     {
+      "date": "2026-07-28",
+      "sector": "自媒体日报",
+      "prefix": "industry_daily_meiti_",
+      "title": "自媒体日报行业日报",
+      "summary": "好的，作为专注于 AI 应用 / AI Agent 行业的市场分析师，我已基于您提供的 2026-07-28 行业资讯，为您生成以下结构化行业日报。 *   **巨头联盟与标准博弈**：英伟达、微软、IBM 等数十家企业成立新联盟，旨在共同保障AI安全。这表明行业正从“野蛮生长”转向“安全合规”，大型玩家试图主导规则制定。 [数据来源: 36氪] *   **资本偏好转向**：分析与报道指出，20...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 9,
+      "risks": 22,
+      "url": "/cross-validate/daily/industry_daily_meiti_2026-07-28.md"
+    },
+    {
       "date": "2026-07-24",
       "sector": "自媒体日报",
       "prefix": "industry_daily_meiti_",
@@ -110,6 +122,30 @@
       "url": "/cross-validate/daily/industry_daily_meiti_2026-07-24.md"
     },
     {
+      "date": "2026-07-29",
+      "sector": "电商日报",
+      "prefix": "industry_daily_dianshang_",
+      "title": "电商日报行业日报",
+      "summary": "- **Kimi K3 开源**：月之暗面开源2.8万亿参数的Kimi K3大模型，技术报告由Sebastian Raschka撰文分析。[数据来源：HN ⭐294 | 钛媒体] - UCLA博士团队创业做人形机器人基础模型，获近5亿元天使++轮融资。[数据来源：36氪] - Kando AI完成数千万元种子轮融资，定位“决策领域的Cursor”。[数据来源：36氪] - 国科超导完成超亿元融资。...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 11,
+      "risks": 11,
+      "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-29.md"
+    },
+    {
+      "date": "2026-07-28",
+      "sector": "电商日报",
+      "prefix": "industry_daily_dianshang_",
+      "title": "电商日报行业日报",
+      "summary": "好的，作为专注于 AI 应用与 AI Agent 行业的市场分析师，我将基于今日采集的行业资讯，为您生成这份结构化的行业日报。 - **行业巨头联合制定安全标准**：英伟达、微软、IBM 等数十家企业成立新联盟，旨在共同保障 AI 安全。这表明行业头部玩家正试图通过顶层合作来应对日益严峻的 AI 风险问题，抢占道德高地与标准制定权。[数据来源: 36氪-氪星晚报] - **AI 基础设施军备竞赛加...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 15,
+      "risks": 14,
+      "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-28.md"
+    },
+    {
       "date": "2026-07-24",
       "sector": "电商日报",
       "prefix": "industry_daily_dianshang_",
@@ -120,6 +156,18 @@
       "opportunities": 13,
       "risks": 9,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-24.md"
+    },
+    {
+      "date": "2026-07-29",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "1. **Kimi K3 开源：2.8万亿参数** — 月之暗面将 Kimi K3 大模型开源，参数规模达 2.8 万亿，标志着国内大模型开源进入新阶段。[数据来源: 钛媒体] 2. **xAI 推出 Build 模型** — xAI 面向 Grok 推出 Build 模型，具体能力和定位待进一步披露。[数据来源: 36氪] 3. **OpenAI API 引入两种新转录模型** — OpenAI...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 13,
+      "risks": 2,
+      "url": "/cross-validate/daily/industry_daily_2026-07-29.md"
     },
     {
       "date": "2026-07-28",
