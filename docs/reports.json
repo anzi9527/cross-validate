@@ -1,16 +1,40 @@
 {
-  "updated": "2026-07-31T16:01+08:00",
+  "updated": "2026-07-31T16:14+08:00",
   "reports": [
+    {
+      "date": "2026-07-31",
+      "sector": "自媒体日报",
+      "prefix": "industry_daily_meiti_",
+      "title": "自媒体日报行业日报",
+      "summary": "- **Gemini Robotics 2 发布**：谷歌DeepMind推出新一代机器人模型，主打\"全身智能\"（whole body intelligence），将视觉-语言-行动模型与运动控制深度融合 [数据来源] https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ -...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 16,
+      "risks": 5,
+      "url": "/cross-validate/daily/industry_daily_meiti_2026-07-31.md"
+    },
+    {
+      "date": "2026-07-31",
+      "sector": "电商日报",
+      "prefix": "industry_daily_dianshang_",
+      "title": "电商日报行业日报",
+      "summary": "- **Google DeepMind 发布 Gemini Robotics 2**，主打\"全身智能\"（whole body intelligence），将原生多模态能力延伸至机器人本体控制 [数据来源：HN，https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/] - **D...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 17,
+      "risks": 6,
+      "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
     {
       "date": "2026-07-31",
       "sector": "AI应用",
       "prefix": "industry_daily_",
       "title": "AI应用行业日报",
-      "summary": "你是一个专注于 AI 应用 / AI Agent 行业的市场分析师。 请基于以下 2026-07-31 采集的行业资讯，生成一份结构化的行业日报。 - [HN] [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo) ⭐29 🤖 - [HN] [DeepSeek-V4-Flash Upda...",
-      "heat": "low",
-      "recommend": "normal",
-      "opportunities": 6,
-      "risks": 3,
+      "summary": "今日头部玩家动态密集，AI办公赛道格局剧变，Physical AI与机器人方向资本升温，部分AI公司已迈过盈利拐点： - **字节跳动组织重构落地**：豆包收编飞书，飞书CEO谢欣向下汇报，字节十年SaaS梦正式让位大模型；同时钉钉降级\"悟空\"，BAT全面转向以AI为中枢的办公产品策略 [数据来源: 钛媒体《豆包收飞书，钉钉降悟空，BAT想\"锁死\"AI打工人？》《谢欣向下汇报，字节十年SaaS梦让...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 15,
+      "risks": 11,
       "url": "/cross-validate/daily/industry_daily_2026-07-31.md"
     }
   ]
