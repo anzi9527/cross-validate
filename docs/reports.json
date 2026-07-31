@@ -1,4 +1,17 @@
 {
-  "updated": "2026-07-31T15:59+08:00",
-  "reports": []
+  "updated": "2026-07-31T16:01+08:00",
+  "reports": [
+    {
+      "date": "2026-07-31",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "你是一个专注于 AI 应用 / AI Agent 行业的市场分析师。 请基于以下 2026-07-31 采集的行业资讯，生成一份结构化的行业日报。 - [HN] [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo) ⭐29 🤖 - [HN] [DeepSeek-V4-Flash Upda...",
+      "heat": "low",
+      "recommend": "normal",
+      "opportunities": 6,
+      "risks": 3,
+      "url": "/cross-validate/daily/industry_daily_2026-07-31.md"
+    }
+  ]
 }
