@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-31T17:47+08:00",
+  "updated": "2026-07-31T17:48+08:00",
   "reports": [
+    {
+      "date": "2026-07-31",
+      "sector": "多维解析",
+      "prefix": "industry_multiview_",
+      "title": "多维解析行业日报",
+      "summary": "**解析对象**: industry_daily_2026-07-31_final.md（AI 应用行业日报） **解析时间**: 2026-07-31 16:12 (Asia/Shanghai) **生成方式**: DeepSeek 自动调用 报告本身“数据来源+推理”的标记方式值得肯定，但很多结论建立在极弱的证据上（如HN 29星就敢说“蓝海”）。以下基于报告全文，从四个视角逐层拆解，不客气。...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 15,
+      "risks": 2,
+      "url": "/cross-validate/daily/industry_multiview_2026-07-31.md"
+    },
     {
       "date": "2026-07-31",
       "sector": "自媒体日报",
