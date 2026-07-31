@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T16:14+08:00",
+  "updated": "2026-07-31T16:16+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -36,6 +36,18 @@
       "opportunities": 15,
       "risks": 11,
       "url": "/cross-validate/daily/industry_daily_2026-07-31.md"
+    },
+    {
+      "date": "2026-07-30",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "**数据截止**: 2026-07-30 14:30 CST（盘中实时更新） **覆盖范围**: A股AI板块 / 资本市场 / 融资动态 / 大厂动态 / 数据质量 **数据源**: 知识卡片库（249张）+ 财联社实时 + 历史日报交叉验证 继7月28日板块杀跌后，**7月30日A股AI算力股持续重挫**： - **创业板指** 半日跌幅近 **6%**，两日累计跌超13% - **算力硬件股...",
+      "heat": "medium",
+      "recommend": "normal",
+      "opportunities": 0,
+      "risks": 7,
+      "url": "/cross-validate/daily/industry_daily_2026-07-30.md"
     }
   ]
 }
