@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T08:53+08:00",
+  "updated": "2026-08-04T08:56+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -12,6 +12,18 @@
       "opportunities": 30,
       "risks": 27,
       "url": "/cross-validate/daily/industry_multiview_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-04",
+      "sector": "自媒体日报",
+      "prefix": "industry_daily_meiti_",
+      "title": "自媒体日报行业日报",
+      "summary": "- **美股科技暴涨利好内容热度**：七巨头指数涨 3.6% 创近期最佳单日表现、谷歌超苹果成全球市值第二——科技叙事重回聚光灯，科技类自媒体流量窗口打开 [数据来源: 财联社 08-04 08:17] - **AI 安全话题升温**：美国政府敲定 AI 模型黑客攻击能力测试细则、白宫与 AI 巨头讨论前沿模型安全框架——\"AI 安全\"成政策高频词，是内容选题富矿 [数据来源: 财联社 08-04...",
+      "heat": "low",
+      "recommend": "normal",
+      "opportunities": 8,
+      "risks": 2,
+      "url": "/cross-validate/daily/industry_daily_meiti_2026-08-04.md"
     },
     {
       "date": "2026-08-02",
@@ -38,6 +50,18 @@
       "url": "/cross-validate/daily/industry_daily_meiti_2026-07-31.md"
     },
     {
+      "date": "2026-08-04",
+      "sector": "电商日报",
+      "prefix": "industry_daily_dianshang_",
+      "title": "电商日报行业日报",
+      "summary": "- **入境消费持续爆发**：上半年上海离境退税申请单 25.3 万票同比增长近三倍、商品金额 23 亿元同比增 58%，占全国约四成——入境消费/跨境零售结构性红利明确 [数据来源: 财联社 08-04 08:53] - **美股科技暴涨带动消费信心**：纳指涨 2.13%、七巨头指数涨 3.6%，风险偏好修复利于跨境电商融资与广告投放环境 [数据来源: 财联社 08-04 08:17，推理] ...",
+      "heat": "low",
+      "recommend": "normal",
+      "opportunities": 13,
+      "risks": 6,
+      "url": "/cross-validate/daily/industry_daily_dianshang_2026-08-04.md"
+    },
+    {
       "date": "2026-08-02",
       "sector": "电商日报",
       "prefix": "industry_daily_dianshang_",
@@ -60,6 +84,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-04",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "- **HBF 高带宽闪存标准落地**：SK海力士与闪迪发布高带宽闪存（HBF）行业首套标准规范，谷歌与 Tenstorrent 加入 HBF 联盟。HBF 介于 HBM 与 SSD 之间的新型存储层级，兼具接近 HBM 的高速传输 + NAND 的大容量——AI 算力存储架构迎来新变量，存储产业格局或重塑 [数据来源: 财联社 08-04 08:33] - **月之暗面启动港股 IPO**：据报...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 13,
+      "risks": 7,
+      "url": "/cross-validate/daily/industry_daily_2026-08-04.md"
     },
     {
       "date": "2026-08-02",
