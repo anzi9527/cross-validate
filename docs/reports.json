@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T08:59+08:00",
+  "updated": "2026-08-06T08:59+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -12,6 +12,18 @@
       "opportunities": 30,
       "risks": 27,
       "url": "/cross-validate/daily/industry_multiview_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-06",
+      "sector": "自媒体日报",
+      "prefix": "industry_daily_meiti_",
+      "title": "自媒体日报行业日报",
+      "summary": "- **SpaceX 解禁暴跌成全民话题**：8月6日 9.115 亿股解禁、单日 -13%、市值蒸发 2250 亿美元——\"造富神话 vs 解禁抛压\"反差叙事自带爆款基因 [数据来源: 财联社 08-06] - **英伟达市值 5.3 万亿美元**：创 6 月初以来新高——AI 造富叙事延续，财富话题持续高热 [数据来源: 财联社 08-06] - **闪迪营收 +372% 引爆存储话题**：存...",
+      "heat": "low",
+      "recommend": "normal",
+      "opportunities": 7,
+      "risks": 3,
+      "url": "/cross-validate/daily/industry_daily_meiti_2026-08-06.md"
     },
     {
       "date": "2026-08-05",
@@ -62,6 +74,18 @@
       "url": "/cross-validate/daily/industry_daily_meiti_2026-07-31.md"
     },
     {
+      "date": "2026-08-06",
+      "sector": "电商日报",
+      "prefix": "industry_daily_dianshang_",
+      "title": "电商日报行业日报",
+      "summary": "- **美股涨跌分化，道指续创新高**：道指 +0.49%，标普 -0.17%，纳指 -0.83%——风险偏好分化，跨境电商融资环境复杂化 [数据来源: 财联社 08-06] - **SpaceX 解禁暴跌 -13%**：9.115 亿股解禁、市值蒸发 2250 亿美元——科技股波动加大，一级市场估值锚受扰动 [数据来源: 财联社 08-06] - **闪迪营收 +372%**：存储涨价周期业绩兑...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 11,
+      "risks": 3,
+      "url": "/cross-validate/daily/industry_daily_dianshang_2026-08-06.md"
+    },
+    {
       "date": "2026-08-05",
       "sector": "电商日报",
       "prefix": "industry_daily_dianshang_",
@@ -108,6 +132,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-06",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "- **美股涨跌分化，道指续创新高，SpaceX 解禁暴跌**：道指 +0.49% 续创新高，标普 -0.17%，纳指 -0.83%；SpaceX 跌超 13%、市值蒸发 2250 亿美元——上市后首批 9.115 亿股限售股 8月6日解禁（SpaceX 首批大规模解禁日），抛压集中释放 [数据来源: 财联社 08-06 早报/投资日历] - **英伟达市值站上 5.3 万亿美元**：涨超 3% ...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 9,
+      "risks": 4,
+      "url": "/cross-validate/daily/industry_daily_2026-08-06.md"
     },
     {
       "date": "2026-08-05",
