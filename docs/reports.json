@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T22:19+08:00",
+  "updated": "2026-08-07T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -12,6 +12,18 @@
       "opportunities": 30,
       "risks": 27,
       "url": "/cross-validate/daily/industry_multiview_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-07",
+      "sector": "自媒体日报",
+      "prefix": "industry_daily_meiti_",
+      "title": "自媒体日报行业日报",
+      "summary": "- **DeepSeek 涨价引爆开发者圈**：公告\"计划近期整体上调 API 定价，预计涨幅较大\"——大量依赖 DeepSeek 低价 API 的 AI 自媒体/矩阵号面临成本冲击，\"AI 工具涨价\"自带传播属性 [数据来源: 财联社 08-07 + 36氪 08-07] - **SpaceX 反弹收复 1.5 万亿美元**：涨逾 6%——昨日\"解禁暴跌\"叙事迎来反转，财富故事有续集 [数据来源...",
+      "heat": "low",
+      "recommend": "normal",
+      "opportunities": 8,
+      "risks": 1,
+      "url": "/cross-validate/daily/industry_daily_meiti_2026-08-07.md"
     },
     {
       "date": "2026-08-06",
@@ -74,6 +86,18 @@
       "url": "/cross-validate/daily/industry_daily_meiti_2026-07-31.md"
     },
     {
+      "date": "2026-08-07",
+      "sector": "电商日报",
+      "prefix": "industry_daily_dianshang_",
+      "title": "电商日报行业日报",
+      "summary": "- **美股三大指数收跌**：道指 -0.85%、标普 -0.18%、纳指 -0.06%——风险偏好回落，跨境电商融资环境承压 [数据来源: 财联社 08-07] - **存储链重挫**：西部数据 -13%、闪迪 -6%、SK海力士 -5%——存储涨价交易短线获利了结，但 3C 硬件成本上行趋势未变 [数据来源: 财联社 08-07] - **马斯克：内存是 AI 最大瓶颈**：存储供给每年 +2...",
+      "heat": "low",
+      "recommend": "normal",
+      "opportunities": 9,
+      "risks": 4,
+      "url": "/cross-validate/daily/industry_daily_dianshang_2026-08-07.md"
+    },
+    {
       "date": "2026-08-06",
       "sector": "电商日报",
       "prefix": "industry_daily_dianshang_",
@@ -132,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-07",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "- OpenAI 官方公告：改进 ChatGPT 中的 GPT-5.6 Sol 体验，同时将 GPT-5.6 Luna 免费开放范围扩大 [数据来源：OpenAI 官方公告，https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/] - AMD 宣布收购 AI 芯片初创公司 Taalas，目标是将模型直接“蚀刻进硅片”以提升推理性能 [数...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 8,
+      "risks": 0,
+      "url": "/cross-validate/daily/industry_daily_2026-08-07.md"
     },
     {
       "date": "2026-08-06",
