@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T18:30+08:00",
+  "updated": "2026-08-08T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-08",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "- **具身智能融资活跃**：赋予机器人“空间直觉”的「Ommo Technologies」获数千万美元A轮融资（[数据来源] 36氪首发）；清华系物理AI基建初创再融数千万美元，数据设备进入全球化规模交付（[数据来源] 36氪首发）。 - **巨头动态集中**：腾讯客服确认AI帮写/点评功能在朋友圈逐步开放（[数据来源] 36氪）；英伟达拟向Lancium投资最高30亿美元支持AI数据中心电力基...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 20,
+      "risks": 10,
+      "url": "/cross-validate/daily/industry_daily_2026-08-08.md"
     },
     {
       "date": "2026-08-07",
