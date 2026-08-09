@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T20:30+08:00",
+  "updated": "2026-08-09T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-09",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "- **AI售后客服机器人融资**：硬氪首发报道，浙大博士团队做出全球首款**视觉售后技术客服机器人**，获李泽湘三轮押注 [数据来源：36氪「硬氪首发 | 获李泽湘三轮押注，浙大博士做出全球首款视觉售后技术客服机器人」] - **机器人“空间直觉”融资**：Ommo Technologies 获数千万美元 A 轮融资，主打赋予机器人空间感知能力 [数据来源：36氪「赋予机器人'空间直觉'，Omm...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 11,
+      "risks": 9,
+      "url": "/cross-validate/daily/industry_daily_2026-08-09.md"
     },
     {
       "date": "2026-08-08",
