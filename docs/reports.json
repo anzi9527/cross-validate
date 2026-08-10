@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T18:30+08:00",
+  "updated": "2026-08-10T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-10",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "- 红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用 [数据来源：36氪《红熊AI完成数亿元A+轮融资》] - 天基通算融合初创公司（押注无人系统的太空算力）完成数千万元首轮融资 [数据来源：36氪首发《从“连得上”到“算得懂”》] - 月之暗面已向投资人发送上市议案，预计最快6个月内在港IPO [数据来源：钛媒体《钛晨报》] - 零一万物计划2027年在香港上市...",
+      "heat": "low",
+      "recommend": "normal",
+      "opportunities": 9,
+      "risks": 1,
+      "url": "/cross-validate/daily/industry_daily_2026-08-10.md"
     },
     {
       "date": "2026-08-09",
