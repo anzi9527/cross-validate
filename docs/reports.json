@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T18:49+08:00",
+  "updated": "2026-08-11T13:29+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-11",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "- **资本持续重注AI硬件赛道**：前华为生成式大模型负责人创立的家务机器人公司完成天使++轮融资5亿元人民币，将机器人折入40厘米机身。[数据来源：36氪首发-《天使++轮融资5亿，前华为生成式大模型负责人把家务机器人折进40厘米》] - **AI助听器出海受资本认可**：开放式AI助听器完成数千万元天使轮融资，且已在海外众筹获数百万美金。[数据来源：36氪硬氪首发-《开放式AI助听器完成数千...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 16,
+      "risks": 4,
+      "url": "/cross-validate/daily/industry_daily_2026-08-11.md"
     },
     {
       "date": "2026-08-10",
