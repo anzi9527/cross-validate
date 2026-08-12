@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T19:13+08:00",
+  "updated": "2026-08-12T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-12",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "| 融资 | xAI 联创创立的 River AI 融资 11 亿美元，英伟达、AMD 参投 | 36氪 | | 融资 | 国奥科技完成近亿元 A+ 轮，自研微米级工业具身机器人，已进入博世产线 | 36氪 | | 融资 | 机器人触觉传感企业完成数千万元融资（\"视触觉+压阻\"组合方案） | 36氪 | | 融资 | 前大疆、影石产品负责人做智能两轮，获弘晖、Brizan 等超亿元融资 | 36氪...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 14,
+      "risks": 8,
+      "url": "/cross-validate/daily/industry_daily_2026-08-12.md"
     },
     {
       "date": "2026-08-11",
