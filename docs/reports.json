@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T18:30+08:00",
+  "updated": "2026-08-14T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-14",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "今日市场信号密集释放，核心聚焦 WAIC 2026 大展（上海世界人工智能大会），行业叙事已从“卷参数”全面转向“卷落地、卷实体、卷商业化”。 | 产品发布 | 腾讯云 ADP 4.0 海外版发布，将企业级智能体推向全球市场 | 36氪《腾讯云ADP 4.0海外版发布》 | | 融资事件 | 红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B延伸至To C | 36氪《红熊AI完成数亿元...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 25,
+      "risks": 12,
+      "url": "/cross-validate/daily/industry_daily_2026-08-14.md"
     },
     {
       "date": "2026-08-12",
