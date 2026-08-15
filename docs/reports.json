@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T18:30+08:00",
+  "updated": "2026-08-15T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-15",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "- **谷歌发布 Gemini 3.7 Flash 模型**：在 36氪晚报中作为重要产品动态发布，Flash 系列定位低延迟、轻量化推理场景，有望推动 Agent 类应用进一步降本。[数据来源：36氪] - **腾讯混元徐灿转岗微信 WeLM**：微信 AI 进入加速阶段，微信生态（小程序、公众号、私域对话）与 Agent 结合的想象空间被打开。[数据来源：36氪·独家] - **月之暗面推进 ...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 17,
+      "risks": 4,
+      "url": "/cross-validate/daily/industry_daily_2026-08-15.md"
     },
     {
       "date": "2026-08-14",
