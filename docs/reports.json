@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T18:30+08:00",
+  "updated": "2026-08-16T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-16",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "1. **谷歌发布 Gemini 3.7 Flash 模型**，Flash 系列轻量模型继续快速迭代 [数据来源: 36氪 氪星晚报] 2. **腾讯混元核心人物徐灿转岗微信 WeLM，微信 AI 进入加速阶段**，腾讯 AI 重心从混元向微信生态迁移 [数据来源: 36氪 独家报道] 3. **英伟达拟为单个投资项目提供最高 25% 的残值支持机制**，黄仁勋亲自出面安抚 AI 算力市场 [数据...",
+      "heat": "low",
+      "recommend": "normal",
+      "opportunities": 5,
+      "risks": 0,
+      "url": "/cross-validate/daily/industry_daily_2026-08-16.md"
     },
     {
       "date": "2026-08-15",
