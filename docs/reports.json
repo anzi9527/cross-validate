@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T18:30+08:00",
+  "updated": "2026-08-18T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-18",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "- **腾讯云ADP 4.0海外版发布**，目标是把企业级智能体（AI Agent）推向全球市场，企业级Agent出海通道进一步打开。[数据来源: 36氪《腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场》] - **红熊AI完成数亿元A+轮融资**，核心方向是基于AI\"记忆科学\"，从To B服务延伸至To C应用。[数据来源: 36氪《红熊AI完成数亿元A+轮融资》] - **月之暗...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 18,
+      "risks": 7,
+      "url": "/cross-validate/daily/industry_daily_2026-08-18.md"
     },
     {
       "date": "2026-08-17",
