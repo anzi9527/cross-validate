@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T18:30+08:00",
+  "updated": "2026-08-19T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-19",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "今日AI应用与Agent赛道热度极高，宇树科技IPO引爆一级市场与二级市场关注，大厂财报印证AI业务进入规模化变现周期。 - **宇树科技IPO：人形机器人第一股诞生**。开盘大涨500%，一度从610亿估值冲至4400亿市值，收盘涨幅629.44%，被钛媒体称为「机器人行业立了根锚」[数据来源：钛媒体《市值4449亿，人形机器人第一股来了！》《暴涨629.44%，宇树IPO了》《从610亿到44...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 13,
+      "risks": 2,
+      "url": "/cross-validate/daily/industry_daily_2026-08-19.md"
     },
     {
       "date": "2026-08-18",
