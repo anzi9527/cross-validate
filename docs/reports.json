@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:30+08:00",
+  "updated": "2026-08-20T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-20",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "- **OpenRouter 加入 Stripe**：AI API 路由与聚合平台 OpenRouter 宣布加入支付巨头 Stripe，HN 热度 617 星，系今日开发者社区最重磅事件。[数据来源：HN — OpenRouter is joining Stripe（https://openrouter.ai/blog/announcements/openrouter-is-joining-st...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 12,
+      "risks": 2,
+      "url": "/cross-validate/daily/industry_daily_2026-08-20.md"
     },
     {
       "date": "2026-08-19",
