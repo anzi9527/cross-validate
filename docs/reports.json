@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T18:30+08:00",
+  "updated": "2026-08-21T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-21",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "- **人形机器人一级市场热度登顶**：宇树科技估值达 4449 亿封神，被钛媒体称为\"具身智能最后一只神股\"；同时宇树发布仿生 7 轴灵巧机械臂，售价 9900 元起，首次将人形机器人核心部件拉入\"千元万元时代\"。[数据来源：钛媒体《宇树4449亿封神》《935亿热钱与冷水》《【钛晨报】宇树发布仿生7轴灵巧机械臂》] - **主流大厂加码 AI 办公助手**：腾讯、百度抢先开打 AI 办公混战；...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 25,
+      "risks": 12,
+      "url": "/cross-validate/daily/industry_daily_2026-08-21.md"
     },
     {
       "date": "2026-08-20",
