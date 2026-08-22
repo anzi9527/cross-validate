@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T18:30+08:00",
+  "updated": "2026-08-22T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-22",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "1. **OpenAI 进一步开放 Codex 底层能力** [数据来源：36氪《9点1氪：阿里巴巴发布财报，OpenAI进一步开放Codex的底层能力》] — Agent 编程与自动化开发门槛再次降低，Codex 或成为 Agent 工作流的通用执行层。 2. **腾讯\"测试中\"的 Agent 钱包，被亚马逊抢先了** [数据来源：钛媒体《腾讯\"测试中\"的Agent钱包，被亚马逊抢先了》] — ...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 7,
+      "risks": 2,
+      "url": "/cross-validate/daily/industry_daily_2026-08-22.md"
     },
     {
       "date": "2026-08-21",
