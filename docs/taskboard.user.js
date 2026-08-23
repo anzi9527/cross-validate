@@ -1,8 +1,8 @@
 ﻿﻿// ==UserScript==
-// @name         Control UI 任务看板 v6.2（三台拆分 + 任务流 + 数据面板）
+// @name         Control UI 任务看板 v6.3（三台拆分 + 任务流 + 数据面板）
 // @namespace    openclaw.gu-ce
-// @version      0.8.0
-// @description  Control UI 任务看板 v6.2（2026-08-23 顾码 6点P2/P3）：①成果展示区（顶部今日/本周产出，/api/outputs 纯静态，运营视角清单：文件类型 emoji 前缀 + 时间今天/昨天 + path 悬停）；②任务流 tab（/api/taskflow/chain，纯 CSS grid+左侧竖线层级，失败节点高亮，零图表库）；③看板三台拆分（🟢任务运营台=队列+梯队+成果展示区 主屏 / 💰成本健康台=成本趋势+运营总览+渠道凭证健康 副屏 / 📚知识资产台=知识库+注册表+选题池+素材供需 按需 tab）；④registry/kb_stats 降级（仅知识资产台按需打开）；⑤6点P2/P3：三数据面板占位文案去内部编号（数据源已就绪·按需加载，timeout 3s→6s）；选题池英文→中文映射（topics→选题总数、material_to_topic→素材→选题转化率、topic_to_script→选题→脚本转化率、pending/selected/draft→中文）；角色面板平铺网格改头部行+点击下拉（计划≤5+技能≤12，默认收起一屏全览）。保留三队列/梯队/手动刷新/数据指纹/mock 降级/挂载点（agent-chat / chat-workspace-rail / app-shell）。全只读：无任何写操作入口/按钮/输入框。
+// @version      0.8.1
+// @description  Control UI 任务看板 v6.3（2026-08-23 顾码 6点P2/P3 + 缩进真因P4）：①成果展示区（顶部今日/本周产出，/api/outputs 纯静态，运营视角清单：文件类型 emoji 前缀 + 时间今天/昨天 + path 悬停 + 小结行今日/本周/最近发布）；②任务流 tab（/api/taskflow/chain，纯 CSS grid+左侧竖线层级，失败节点高亮，零图表库）；③看板三台拆分（🟢任务运营台=队列+梯队+成果展示区 主屏 / 💰成本健康台=成本趋势+运营总览+渠道凭证健康 副屏 / 📚知识资产台=知识库+注册表+选题池+素材供需 按需 tab）；④registry/kb_stats 降级（仅知识资产台按需打开）；⑤6点P2/P3：三数据面板占位文案去内部编号（数据源已就绪·按需加载，timeout 3s→6s）；选题池英文→中文映射（topics→选题总数、material_to_topic→素材→选题转化率、topic_to_script→选题→脚本转化率、pending/selected/draft→中文）；角色面板平铺网格改头部行+点击下拉（计划≤5+技能≤12，默认收起一屏全览）；⑥P4 头部 flex 溢出修复（flex-wrap:wrap + gap 行列分离 + counts 省略兜底），刷新按钮/箭头窄容器不再被挤出。保留三队列/梯队/手动刷新/数据指纹/mock 降级/挂载点（agent-chat / chat-workspace-rail / app-shell）。全只读：无任何写操作入口/按钮/输入框。
 // @match        http://127.0.0.1:18789/*
 // @match        http://localhost:18789/*
 // @match        http://127.0.0.1:18789
@@ -21,7 +21,7 @@
 (function () {
   'use strict';
 
-  var VERSION = 'v6.2';
+  var VERSION = 'v6.3';
   var API_URL = 'http://127.0.0.1:9903/api/board';
   var API_BASE = 'http://127.0.0.1:9903';
   var MOUNT_TICK_MS = 5000; // 挂载点周期重评（保留）
@@ -122,7 +122,7 @@
       margin:2px 0 6px; padding:0; border:1px solid rgba(127,127,127,.35);
       border-radius:8px; background:rgba(127,127,127,.08);
       font:12px/1.45 ui-monospace, Consolas, monospace; color:inherit; overflow:hidden; }
-    .gce-tb5__head { display:flex; align-items:center; gap:8px;
+    .gce-tb5__head { display:flex; align-items:center; flex-wrap:wrap; gap:8px 10px;
       padding:8px 10px 6px; cursor:pointer; user-select:none; }
     .gce-tb5__head:hover { background:rgba(127,127,127,.06); }
     .gce-tb5__dot { width:8px; height:8px; border-radius:50%; display:inline-block; flex:none; }
@@ -131,7 +131,8 @@
     .gce-tb5__dot--off { background:#9e9e9e; }
     .gce-tb5__title { font-weight:600; white-space:nowrap; }
     .gce-tb5__ver { font-size:10px; opacity:.6; font-weight:400; margin-left:2px; }
-    .gce-tb5__counts { margin-left:8px; font-size:11px; opacity:.8; white-space:nowrap; }
+    .gce-tb5__counts { margin-left:8px; font-size:11px; opacity:.8; white-space:nowrap;
+      max-width:100%; overflow:hidden; text-overflow:ellipsis; }
     .gce-tb5__counts b { font-weight:600; }
     .gce-tb5__meta { font-size:11px; opacity:.55; margin-left:auto; white-space:nowrap; }
     .gce-tb5__caret { font-size:10px; opacity:.7; margin-left:4px; }
@@ -219,7 +220,7 @@
 
     /* rail 紧凑模式 */
     .gce-tb5--rail { font-size:11px; margin:0 0 8px; }
-    .gce-tb5--rail .gce-tb5__head { padding:6px 8px 4px; gap:6px; }
+    .gce-tb5--rail .gce-tb5__head { padding:6px 8px 4px; gap:6px 8px; flex-wrap:wrap; }
     .gce-tb5--rail .gce-tb5__body { padding:0 8px 6px; }
     .gce-tb5--rail .gce-tb5__summarygrid { grid-template-columns:repeat(3,1fr); gap:4px 6px; }
     .gce-tb5--rail .gce-tb5__cell { padding:2px 4px; font-size:10px; }
