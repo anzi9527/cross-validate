@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T18:30+08:00",
+  "updated": "2026-08-23T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-23",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "今日行业主线清晰：**巨头的「基础设施开放」与「资本资产重估」并进，Agent 开源生态与后端数据/算力资产同步升温。** OpenAI 进一步放开 Codex 底层能力，国内 Kimi 推出专为智能体编程打造的 K3 模型，开源 Agent 操作系统 elizaOS 持续霸榜；阿里则通过财报、管理层发言与组织架构调整，释放出 AI 资本开支周期正式转入「回报兑现期」的信号 [数据来源: 36氪/...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 19,
+      "risks": 22,
+      "url": "/cross-validate/daily/industry_daily_2026-08-23.md"
     },
     {
       "date": "2026-08-22",
