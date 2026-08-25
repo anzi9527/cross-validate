@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T18:30+08:00",
+  "updated": "2026-08-25T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-25",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "今日行业主线清晰指向 **「AI Agent 从单点工具走向全生态整合」** ：字节跳动宣布将 TRAE、扣子（Coze）并入豆包，推出统一办公品牌\"豆包工作\"，标志着国内头部玩家正式将 AI Agent 从开发者工具升级为面向企业办公的一站式平台 [数据来源：36氪独家]；特斯拉首次在国产车型中引入中国大模型，海外巨头加速本地化 AI 生态适配 [数据来源：钛媒体]。硬件端侧 AI 同样密集发力...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 20,
+      "risks": 23,
+      "url": "/cross-validate/daily/industry_daily_2026-08-25.md"
     },
     {
       "date": "2026-08-24",
