@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T18:30+08:00",
+  "updated": "2026-08-26T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-26",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "今日行业主线清晰：**算力层与终端层同日迎来重磅更新**。Apple 正式发布 M6 与 M5 Ultra 芯片，将端侧 AI 算力推向新高度 [数据来源: Apple Newsroom]；OpenAI 被曝自研芯片 \"Jalapeño\" 性能超越 Nvidia Blackwell，昭示头部玩家对算力自主权的争夺正急剧升温 [数据来源: SemiAnalysis]。与此同时，FDA 批准了全球首款...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 16,
+      "risks": 7,
+      "url": "/cross-validate/daily/industry_daily_2026-08-26.md"
     },
     {
       "date": "2026-08-25",
