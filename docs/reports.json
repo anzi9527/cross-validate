@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T18:30+08:00",
+  "updated": "2026-08-27T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-27",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "2026年WAIC（世界人工智能大会）进入关键观察期，本届展会释放出最强信号：**AI 竞争焦点已从“卷参数”彻底转向“能干活”的实体 AI（Physical AI）** 。[数据来源：36氪《谁还在卷参数？WAIC2026全是能干活的实体AI！》] 从烤披萨的机器人到取快递的无人设备，具身智能从Demo走向服务基础设施已是确定性趋势；[数据来源：36氪《从烤披萨到拿快递，满场跑的机器人终于要进你...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 16,
+      "risks": 3,
+      "url": "/cross-validate/daily/industry_daily_2026-08-27.md"
     },
     {
       "date": "2026-08-26",
