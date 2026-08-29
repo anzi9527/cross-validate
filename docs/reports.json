@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T18:30+08:00",
+  "updated": "2026-08-29T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-29",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "今日行业主线呈现三大特征：**具身智能赛道资本持续高温**（上科大团队完成千万美元种子轮、光本位科技估值近200亿元）、**AI 商业化落地进入兑现阶段**（群核科技 AI 收入大增 177%、优必选人形机器人收入同比暴涨 1445%）、**AI 基础设施建设加速**（更低的推理成本推动创纪录基础设施支出）。 此外，字节跳动\"飞书+豆包\"合流信号明显、北京银行已落地 300+ 智能体，表明大厂与金...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 19,
+      "risks": 14,
+      "url": "/cross-validate/daily/industry_daily_2026-08-29.md"
     },
     {
       "date": "2026-08-27",
