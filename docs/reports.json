@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T18:30+08:00",
+  "updated": "2026-08-30T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-30",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "今日行业最大的变量来自头部玩家之间的生态博弈：OpenAI 宣布终止向 Cursor 提供模型服务，直接重塑 AI 编程工具的市场格局[数据来源：36氪]，这一事件是 AI 应用层“依赖单一模型供应商”模式风险的典型样本。与此同时，腾讯正式开源混元 Hy4 preview[数据来源：腾讯官网]，并复盘了追赶 127 天的路径[数据来源：钛媒体]，显示大厂仍在加速投入基础模型竞争。 资本与商业化数据...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 20,
+      "risks": 12,
+      "url": "/cross-validate/daily/industry_daily_2026-08-30.md"
     },
     {
       "date": "2026-08-29",
