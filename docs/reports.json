@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T18:30+08:00",
+  "updated": "2026-08-31T18:11+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-08-31",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "今日行业主线呈现「政策托底 + 资本加码 + 模型竞赛」三重共振。商务部等 7 部门发布多项政策，明确加快智能家居、智能机器人、脑机融合等技术在全场景的应用推广，政策端释放强利好信号 [数据来源: 36氪]。融资端同样活跃：AI 影视公司折叠完成数百万美元融资，中科大太空智能计算平台获超亿元融资，神奕科技凭 AI+BCI 获超千万元天使轮 [数据来源: 36氪]。 模型与应用侧，Kimi 正式上线...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 16,
+      "risks": 11,
+      "url": "/cross-validate/daily/industry_daily_2026-08-31.md"
     },
     {
       "date": "2026-08-30",
