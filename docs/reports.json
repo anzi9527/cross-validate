@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T18:30+08:00",
+  "updated": "2026-09-01T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-09-01",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "今日行业主线可概括为三条：**WAIC 2026 全面转向“实体AI”**，从“烤披萨机器人”到“拿快递机器人”，产业叙事重心从卷参数转向卷落地；[数据来源：36氪] 与此同时，**AI 大模型公司集中冲刺港股 IPO**，月之暗面最快 6 个月赴港上市、零一万物计划 2027 年上市，一级市场资本化窗口打开；[数据来源：钛媒体/36氪] 政策层面，**工信部密集释放利好**，宣布加快出台“人工智...",
+      "heat": "medium",
+      "recommend": "strong",
+      "opportunities": 29,
+      "risks": 5,
+      "url": "/cross-validate/daily/industry_daily_2026-09-01.md"
     },
     {
       "date": "2026-08-31",
