@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T18:30+08:00",
+  "updated": "2026-09-02T18:31+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-09-02",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "今日行业主线呈现「巨头重注 + 垂直场景深耕」的双轨格局 [数据来源: 36氪/钛媒体]。头部方面，Anthropic 双线出击：一边发布 Claude Fable 5.1 与 Claude Mythos 5.1 两款新模型引发社区 900+ 热议 [数据来源: HN]，另一边与英伟达支持的 Lambda 签下 350 亿美元云计算超级订单 [数据来源: 钛媒体]，大模型军备竞赛再度升级。 场景落...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 12,
+      "risks": 5,
+      "url": "/cross-validate/daily/industry_daily_2026-09-02.md"
     },
     {
       "date": "2026-09-01",
