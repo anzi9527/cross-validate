@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T18:31+08:00",
+  "updated": "2026-09-03T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-09-03",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "2026 WAIC（世界人工智能大会）成为今日行业绝对主线，释放出一个清晰的转折信号：**具身智能与实体 AI 正式从\"卷参数\"迈入\"卷落地\"阶段**。从烤披萨的机器臂到取快递的人形机器人，再到搭载\"天基通算融合\"能力的无人系统，现场展示的重心已全面转向\"能干活的 AI\"，而非大模型参数的军备竞赛 [数据来源: 36氪 WAIC系列报道]。与此同时，钛媒体多篇观察文章同步指出，**具身智能整体仍处...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 19,
+      "risks": 8,
+      "url": "/cross-validate/daily/industry_daily_2026-09-03.md"
     },
     {
       "date": "2026-09-02",
