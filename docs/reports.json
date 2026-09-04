@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T18:30+08:00",
+  "updated": "2026-09-04T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-09-04",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "今日 AI 行业迎来**头部模型发布+并购+基础设施扩张**三线共振。OpenAI 正式发布 GPT-6 Astra，英伟达以 129.3 亿美元完成对 Hugging Face 的收购，字节跳动曝获近 300 亿美元贷款加码 AI 基建[数据来源: 36氪 8点1氪]。与此同时，中国 AI 公司动作频密：腾讯 WorkBuddy 开放平台上线、智谱与 MiniMax 加速 Token 商业化、中...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 11,
+      "risks": 4,
+      "url": "/cross-validate/daily/industry_daily_2026-09-04.md"
     },
     {
       "date": "2026-09-03",
