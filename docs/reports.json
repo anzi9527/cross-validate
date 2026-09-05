@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T18:30+08:00",
+  "updated": "2026-09-05T18:30+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-09-05",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "**今日主线是“模型换代 + Agent 生态分岔”。** OpenAI 正式发布 GPT-6 Astra 并同步上线 OpenRouter，钛媒体转述称其“思维不可读”，引发对 AI 监管与可解释性的讨论 [数据来源：钛媒体 / OpenRouter]。与此同时，月之暗面 Kimi 官网显示 K3 已上线，定位“专为智能体编程与知识工作打造” [数据来源：Kimi 官网]，国内 Agent 基座...",
+      "heat": "low",
+      "recommend": "weak",
+      "opportunities": 1,
+      "risks": 5,
+      "url": "/cross-validate/daily/industry_daily_2026-09-05.md"
     },
     {
       "date": "2026-09-04",
