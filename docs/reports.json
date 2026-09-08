@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T05:11+08:00",
+  "updated": "2026-09-08T18:37+08:00",
   "reports": [
     {
       "date": "2026-07-31",
@@ -156,6 +156,18 @@
       "opportunities": 17,
       "risks": 6,
       "url": "/cross-validate/daily/industry_daily_dianshang_2026-07-31.md"
+    },
+    {
+      "date": "2026-09-08",
+      "sector": "AI应用",
+      "prefix": "industry_daily_",
+      "title": "AI应用行业日报",
+      "summary": "今日行业主线呈现“**基建开源加速、应用出海与落地并进**”的态势。海外方面，DeepMind 发布 **WeatherNext 3** 天气大模型，将 AI 气象预测带入 3 公里级高精度时代；FuseBase 开源 **fusebase-flow** 低代码 Agent 框架，D2 团队开源 **TALA** 图表大语言模型——AI 应用层的“水电煤”正在变得更便宜。[数据来源: HN, Gi...",
+      "heat": "low",
+      "recommend": "strong",
+      "opportunities": 12,
+      "risks": 6,
+      "url": "/cross-validate/daily/industry_daily_2026-09-08.md"
     },
     {
       "date": "2026-09-05",
