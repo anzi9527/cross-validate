@@ -16,7 +16,7 @@ cat > output/article.md << 'EOF'
 EOF
 
 # 2. 审核
-python3 cross_validate.py output/article.md article > review.json
+python3 -m cross_validate.core output/article.md article > review.json
 
 # 3. 检查结果
 SCORE=$(python3 -c "import json; d=json.load(open('review.json')); print(d['score'])")
