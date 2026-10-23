@@ -26,8 +26,11 @@
 git clone https://github.com/anzi9527/cross-validate.git
 cd cross-validate
 
-# 无需 pip install，纯标准库
+# 可选：安装为命令（也可直接用 python3 -m cross_validate.core）
+python3 -m pip install -e . --break-system-packages
 ```
+
+> 纯标准库实现，即使不 `pip install`，直接 `python3 -m cross_validate.core` 也能运行。
 
 ### 2. 配置 API Key
 
@@ -45,16 +48,20 @@ export ZHIPU_API_KEY="your-api-key-here"
 
 ```bash
 # 审核一篇文章
-python3 cross_validate.py article.md
+python3 -m cross_validate.core article.md
 
 # 审核一段代码
-python3 cross_validate.py my_script.py code
+python3 -m cross_validate.core my_script.py code
 
 # 直接审核文本
-python3 cross_validate.py --text "要审核的内容" article
+python3 -m cross_validate.core --text "要审核的内容" article
 
-# CI 模式：有严重问题则退出码 1
-python3 cross_validate.py code_to_review.py code --exit-on-fail
+# 附带数据来源（帮助模型基于外部来源核查事实）
+python3 -m cross_validate.core article.md article --sources=sources.md
+
+# 查看 API Key 配置状态 / 版本
+python3 -m cross_validate.core --check
+python3 -m cross_validate.core --version
 ```
 
 ### 4. 在 Python 中调用
@@ -120,7 +127,12 @@ print(check_key_status())
 
 ```
 cross-validate/
-├── cross_validate.py   # 核心工具（主文件）
+├── cross_validate/
+│   ├── __init__.py     # 公开 API 导出
+│   └── core.py         # 核心工具（主实现）
+├── tests/              # 单元测试（pytest）
+│   └── test_cross_validate.py
+├── pyproject.toml      # 打包配置（pytest/ruff）
 ├── README.md           # 本文档
 ├── LICENSE             # MIT License
 └── examples/           # 使用示例（开发中）
